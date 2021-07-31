@@ -1,0 +1,1 @@
+context: {a=b, x=1, foo=bar, parties=[alice, bob]}
